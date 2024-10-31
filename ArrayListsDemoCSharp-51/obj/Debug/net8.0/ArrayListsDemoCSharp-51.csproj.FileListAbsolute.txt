@@ -1,0 +1,14 @@
+C:\Users\sbowm\OneDrive\Desktop\repos\ArrayListsDemoCSharp-51\ArrayListsDemoCSharp-51\bin\Debug\net8.0\ArrayListsDemoCSharp-51.exe
+C:\Users\sbowm\OneDrive\Desktop\repos\ArrayListsDemoCSharp-51\ArrayListsDemoCSharp-51\bin\Debug\net8.0\ArrayListsDemoCSharp-51.deps.json
+C:\Users\sbowm\OneDrive\Desktop\repos\ArrayListsDemoCSharp-51\ArrayListsDemoCSharp-51\bin\Debug\net8.0\ArrayListsDemoCSharp-51.runtimeconfig.json
+C:\Users\sbowm\OneDrive\Desktop\repos\ArrayListsDemoCSharp-51\ArrayListsDemoCSharp-51\bin\Debug\net8.0\ArrayListsDemoCSharp-51.dll
+C:\Users\sbowm\OneDrive\Desktop\repos\ArrayListsDemoCSharp-51\ArrayListsDemoCSharp-51\bin\Debug\net8.0\ArrayListsDemoCSharp-51.pdb
+C:\Users\sbowm\OneDrive\Desktop\repos\ArrayListsDemoCSharp-51\ArrayListsDemoCSharp-51\obj\Debug\net8.0\ArrayListsDemoCSharp-51.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sbowm\OneDrive\Desktop\repos\ArrayListsDemoCSharp-51\ArrayListsDemoCSharp-51\obj\Debug\net8.0\ArrayListsDemoCSharp-51.AssemblyInfoInputs.cache
+C:\Users\sbowm\OneDrive\Desktop\repos\ArrayListsDemoCSharp-51\ArrayListsDemoCSharp-51\obj\Debug\net8.0\ArrayListsDemoCSharp-51.AssemblyInfo.cs
+C:\Users\sbowm\OneDrive\Desktop\repos\ArrayListsDemoCSharp-51\ArrayListsDemoCSharp-51\obj\Debug\net8.0\ArrayListsDemoCSharp-51.csproj.CoreCompileInputs.cache
+C:\Users\sbowm\OneDrive\Desktop\repos\ArrayListsDemoCSharp-51\ArrayListsDemoCSharp-51\obj\Debug\net8.0\ArrayListsDemoCSharp-51.dll
+C:\Users\sbowm\OneDrive\Desktop\repos\ArrayListsDemoCSharp-51\ArrayListsDemoCSharp-51\obj\Debug\net8.0\refint\ArrayListsDemoCSharp-51.dll
+C:\Users\sbowm\OneDrive\Desktop\repos\ArrayListsDemoCSharp-51\ArrayListsDemoCSharp-51\obj\Debug\net8.0\ArrayListsDemoCSharp-51.pdb
+C:\Users\sbowm\OneDrive\Desktop\repos\ArrayListsDemoCSharp-51\ArrayListsDemoCSharp-51\obj\Debug\net8.0\ArrayListsDemoCSharp-51.genruntimeconfig.cache
+C:\Users\sbowm\OneDrive\Desktop\repos\ArrayListsDemoCSharp-51\ArrayListsDemoCSharp-51\obj\Debug\net8.0\ref\ArrayListsDemoCSharp-51.dll
